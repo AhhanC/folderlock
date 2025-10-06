@@ -1,0 +1,5 @@
+{
+  "name": "React Folder Lock",
+  "description": "A web application that simulates locking a folder with a password to protect it from unauthorized access, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
